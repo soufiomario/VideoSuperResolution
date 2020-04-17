@@ -1,4 +1,4 @@
-# Video Super Resolution
+# Super Resolution
 A collection of state-of-the-art video or single-image super-resolution architectures, reimplemented in tensorflow.
 
 **Project uploaded to PyPI now. Try install from PyPI:**
